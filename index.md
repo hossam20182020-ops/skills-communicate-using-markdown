@@ -10,7 +10,11 @@ for i in x
  pass
 ```
 
+- [x] Pray
+- [ ] be patient 
+
 Thank you
+
 
 
 
